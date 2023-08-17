@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter/services.dart';
-//모달에 인풋 부분 누르자마자 숫자패드가 뜨도록 하기 위해 필요한 것 같은데 실험이 안됨
+//sdfsf모달에 인풋 부분 누르자마자 숫자패드가 뜨도록 하기 위해 필요한 것 같은데 실험이 안됨
 import 'create_room2.dart';
 
 void main() {
